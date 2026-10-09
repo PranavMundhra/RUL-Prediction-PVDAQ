@@ -1,0 +1,24 @@
+# data never goes in git
+data/*
+!data/.gitkeep
+ml_pipeline/data/
+*.parquet
+*.csv.gz
+
+# python
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# notebooks / editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# secrets
+.env

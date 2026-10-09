@@ -1,0 +1,9 @@
+pvdaq-rul
+Copyright 2026 <Your Name>
+
+This product includes software developed by <Your Name> and is licensed under
+the Apache License, Version 2.0 (see LICENSE).
+
+This project reads, but does not redistribute, the NREL Photovoltaic Data
+Acquisition (PVDAQ) Public Datasets (DOI 10.25984/1846021), which are published
+under a Creative Commons Attribution license. See DATA_LICENSE_NOTICE.md.

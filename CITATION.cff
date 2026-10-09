@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and also cite the PVDAQ dataset."
+title: "pvdaq-rul: usable-data pipeline for PV Remaining Useful Life modelling"
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+repository-code: "https://github.com/<your-github-username>/pvdaq-rul"
+references:
+  - type: dataset
+    title: "Photovoltaic Data Acquisition (PVDAQ) Public Datasets"
+    authors:
+      - family-names: "Deline"
+        given-names: "Chris"
+      - family-names: "Perry"
+        given-names: "Kirsten"
+      - family-names: "Deceglie"
+        given-names: "Michael"
+      - family-names: "Muller"
+        given-names: "Matthew"
+      - family-names: "Sekulic"
+        given-names: "William"
+      - family-names: "Jordan"
+        given-names: "Dirk"
+    institution:
+      name: "National Renewable Energy Laboratory (NREL)"
+    year: 2021
+    doi: "10.25984/1846021"
+    url: "https://data.openei.org/submissions/4568"
+    license: CC-BY-4.0
