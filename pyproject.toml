@@ -33,7 +33,7 @@ filterwarnings = ["ignore::FutureWarning"]
 [tool.ruff]
 line-length = 110
 src = ["src", "tests"]
-extend-exclude = ["notebooks"]   # notebooks are Kaggle-style scripts, kept as written
+extend-exclude = ["notebooks", "*.md"]   # notebooks are Kaggle-style scripts, kept as written
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]
